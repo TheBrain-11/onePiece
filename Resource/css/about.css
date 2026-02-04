@@ -47,6 +47,7 @@ overflow: hidden;
 .nav-links a{
     text-decoration:none;
     color:#e2e8f0;
+    font-size:15px;
     font-weight:500;
     transition:0.3s;
 }
@@ -201,3 +202,4 @@ overflow: hidden;
     }
 
 }
+
