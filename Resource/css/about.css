@@ -33,6 +33,7 @@ overflow: hidden;
 }
 
 .logo{
+    font-size:30px
     font-weight:700;
     color:var(--colour-blue);
     letter-spacing:1px;
@@ -206,5 +207,6 @@ overflow: hidden;
     }
 
 }
+
 
 
