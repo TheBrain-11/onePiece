@@ -169,6 +169,10 @@ overflow: hidden;
         grid-template-columns:1fr;
     }
 
+    navbar a{
+        font-size:20px;
+    }
+
     .sidebar{
         order:-1;
     }
@@ -202,4 +206,5 @@ overflow: hidden;
     }
 
 }
+
 
